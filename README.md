@@ -61,3 +61,11 @@ if your have onather printer , download and install it (xp-365b)
 ```sh
 git clone https://github.com/biilyz/printPi
 ```
+<br>
+then 
+
+<br>
+
+```sh
+cd /printPi
+```
