@@ -73,7 +73,8 @@ cd printPi
 sudo dpkg -i xprinter.deb
 ```
 <br>
-#Finish open your browser to use Cups
+
+# Finish open your browser to use Cups
 
 <br>
 
