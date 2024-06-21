@@ -67,5 +67,6 @@ then
 <br>
 
 ```sh
-cd /printPi
+cd printPi
+sudo dpkg -i xprinter.deb
 ```
