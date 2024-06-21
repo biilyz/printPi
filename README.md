@@ -59,6 +59,7 @@ if your have onather printer , download and install it (xp-365b)
 <br>
 
 ```sh
+sudo apt install git -y
 git clone https://github.com/biilyz/printPi
 ```
 <br>
@@ -67,6 +68,15 @@ then
 <br>
 
 ```sh
+sudo apt-get install libcupsimage2
 cd printPi
 sudo dpkg -i xprinter.deb
+```
+<br>
+#Finish open your browser to use Cups
+
+<br>
+
+```sh
+https://hostnameraspberrypi:631
 ```
